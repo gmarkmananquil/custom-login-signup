@@ -1,0 +1,121 @@
+/**
+ * Code by glen mark mananquil
+ *
+ */
+
+#custom-login{
+    width: 450px;
+    margin: 20px auto;
+    border: 1px solid #CCC;
+    padding: 50px;
+}
+
+#custom-login .social-login{
+}
+
+#custom-login .social-login .facebook-login{
+    margin-bottom: 10px;
+}
+
+#custom-login .social-login .facebook-login button{
+    width: 100%;
+    border: #3B5998 1px solid;
+    border-radius: 2px;
+    background-color: #3B5998;
+    color: #FFF;
+    text-align: center;
+    font-size: 1.2em;
+    padding: 20px;
+}
+
+#custom-login .social-login .google-login button{
+    width: 100%;
+    border: #CCC 1px solid;
+    border-radius: 2px;
+    background-color: #FFF;
+    color: #888;
+    text-align: center;
+    font-size: 1.2em;
+    padding: 20px;
+}
+
+#custom-login .spacer{
+    margin-top: 5px;
+    height: 15px;
+    width: 100%;
+    border-bottom: 1px solid #888;
+    text-align: center;
+}
+
+#custom-login .spacer span{
+    display: inline-block;
+    background: #FFF;
+    padding: 2px 7px;
+}
+
+
+#custom-login .form{
+    display: block;
+    margin-top: 20px;
+}
+
+#custom-login .form .form-group{
+    margin: 5px 0px;
+}
+
+#custom-login .form .form-group input{
+    width: 100%;
+    border: 1px solid #CCC;
+    padding: 15px 35px 15px 10px;
+    background-image: url("../images/text-field-icons.png");
+    background-repeat: no-repeat;
+}
+
+#custom-login .form .form-group .email{
+    background-position: right 15px;
+    background-size: 40px 155px;
+}
+
+#custom-login .form .form-group .password{
+    background-position: right -76px;
+    background-size: 40px 155px;
+}
+
+#custom-login .custom-login-submit{
+    margin: 5px 0px 20px 0px;
+    width: 100%;
+    display: block;
+    padding: 20px 0px;
+    color: #FFF;
+    border: 1px solid #ff5a5f;
+    background-color: #ff5a5f;
+    border-radius: 3px;
+}
+
+#custom-login .remember-me-group{
+}
+#custom-login .remember-me-group input{
+    vertical-align: bottom;
+}
+#custom-login .remember-me-group label{
+    vertical-align: bottom;
+}
+
+#custom-login .signup-group{
+    width: 100%;
+}
+
+#custom-login .signup-group input{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+#custom-login .signup-group span{
+    display: inline-block;
+    padding: 5px 50px 0px 20px;
+}
+#custom-login .signup-group a{
+    border: 1px solid #ff5a5f;
+    border-radius: 3px;
+    color: #ff5a5f;
+    padding: 8px 23px;
+}

@@ -1,0 +1,130 @@
+/**
+ *
+ *
+ */
+
+#custom-signup{
+    width: 450px;
+    margin: 20px auto;
+    border: 1px solid #CCC;
+    padding: 50px;
+}
+
+#custom-signup .social-signup{
+    text-align: center;
+}
+
+#custom-signup .spacer{
+    margin: 5px 0px 10px 5px;
+    height: 15px;
+    width: 100%;
+    border-bottom: 1px solid #888;
+    text-align: center;
+}
+
+#custom-signup .spacer span{
+    display: inline-block;
+    background: #FFF;
+    padding: 2px 7px;
+}
+
+
+.custom-signup-form{
+
+}
+.custom-signup-form .form-inner{
+}
+
+.custom-signup-form .form-inner .form-group{
+}
+
+.custom-signup-form .form-inner .form-group{
+    margin: 5px 0px;
+}
+
+.custom-signup-form .form-inner .form-group input{
+    width: 100%;
+    border: 1px solid #CCC;
+    padding: 15px 35px 15px 10px;
+    background-repeat: no-repeat;
+    background-image: url("../images/text-field-icons.png");
+}
+
+.custom-signup-form .form-inner .form-group input#email{
+    background-position: right -76px;
+    background-size: 40px 155px;
+}
+
+.custom-signup-form .form-inner .form-group input#first-name{
+    background-position: right -76px;
+    background-size: 40px 155px;
+}
+
+.custom-signup-form .form-inner .form-group input#last-name{
+    background-position: right -76px;
+    background-size: 40px 155px;
+}
+
+.custom-signup-form .form-inner .form-group input#password{
+    background-position: right -76px;
+    background-size: 40px 155px;
+}
+
+.custom-signup-form .birthday-group{
+}
+
+.custom-signup-form .birthday-group strong{
+    display: block;
+    margin: 10px 0px;
+}
+
+.custom-signup-form .birthday-group .month,
+.custom-signup-form .birthday-group .day,
+.custom-signup-form .birthday-group .year{
+    border: 1px solid #CCC;
+    padding: 7px 10px;
+    margin: 0px 6px 30px 0px;
+    -moz-user-select: none;
+    -moz-appearance: menulist;
+    -moz-appearance: none;
+}
+.custom-signup-form .birthday-group .month{
+    width: 120px;
+}
+.custom-signup-form .birthday-group .day{
+    width: 80px;
+}
+.custom-signup-form .birthday-group .year{
+    width: 120px;
+}
+.custom-signup-form .submit-button input{
+    margin: 8px 0px 20px 0px;
+    width: 100%;
+    display: block;
+    padding: 20px 0px;
+    color: #FFF;
+    border: 1px solid #ff5a5f;
+    background-color: #ff5a5f;
+    border-radius: 3px;
+}
+
+#custom-signup .login-group{
+    width: 100%;
+}
+
+#custom-signup .login-group input{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+#custom-signup .login-group span{
+    display: inline-block;
+    padding: 5px 50px 0px 20px;
+}
+
+#custom-signup .login-group a{
+    border: 1px solid #ff5a5f;
+    border-radius: 3px;
+    color: #ff5a5f;
+    padding: 8px 23px;
+}
